@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ST_Nucleo)(type KiCad)(uri ${KIPRJMOD}/../../KicadLibrary/footprint/MODULES/NUCLEO/ST_Nucleo.pretty)(options "")(descr ""))
+)
