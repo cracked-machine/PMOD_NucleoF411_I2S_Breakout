@@ -15,3 +15,7 @@ Note, the MCLK, LCRK, SCLK clock signals are electrically connected across both 
 <BR>
 
 ![](PMOD_NucleoF411_I2S_Breakout/res/docs/SystemDiagrams/PMOD_NucleoF411_I2S_Breakout_BlockPortDiagram.svg)
+
+#### Schematic
+
+![](PMOD_NucleoF411_I2S_Breakout/res/docs/schematic/svg/PMOD_NucleoF411_I2S_Breakout.svg)
